@@ -5,14 +5,16 @@ Website created for Typescript study purposes
 #
 1. [Install Node](https://nodejs.org/)
 #
-2. Install the project dependencies
+2. Open a terminal and go to the project root path
+#
+3. Install the project dependencies
 ```
 npm install
 ```
 #
-3. Run the local server to provide the website and the api (the terminal must be located at the project root)
+4. Run the local server to provide the website and the api
 ```
 npm run start
 ```
 #
-4. The page will be automatically opened in the browser
+5. The page will be automatically opened in the browser
