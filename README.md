@@ -1,20 +1,18 @@
 # Alura Bank (TypeScript)
 Website created for Typescript study purposes
 
-* There's no need to run anything, so you just need to open [app/index.html](https://github.com/PauloMello99/AluraBank_TS/blob/main/app/index.html) in some browser after downloading the project.
-
-* But in order to code something else, you must:
+* In order to run the project:
 #
-1. [Have Node installed](https://nodejs.org/)
+1. [Install Node](https://nodejs.org/)
 #
-2. Install the dependencies
+2. Install the project dependencies
 ```
 npm install
 ```
 #
-3. Run TSC
+3. Run the local server to provide the website and the api (the terminal must be located at the project root)
 ```
-npm start
+npm run start
 ```
 #
-4. Open [app/index.html](https://github.com/PauloMello99/AluraBank_TS/blob/main/app/index.html) in some browser
+4. The page will be automatically opened in the browser
